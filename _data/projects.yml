@@ -1,6 +1,6 @@
 - name: Anytime top 100 playlist # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/spotify.png # Optional image
   description_less: Using selenium and spotipy(python API for spotify) to create a playlist of the top 100 songs of any date given as an input by the user # Description shown at all times, text only
   action_buttons: > # Action buttons for project, HTML only
     <a href="https://github.com/suyog301103/anytime-top-100-playlist" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
@@ -8,7 +8,7 @@
 
 - name: Review Classifier
   id: p2
-  img_src: 
+  img_src: /assets/img/review-classifier.webp
   description_less: Using NLP(Bag of Words Model) to classify reviews as positive or negative
   action_buttons: >
     <a href="https://github.com/suyog301103/Review-Classifier" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
@@ -16,7 +16,7 @@
 
 - name: Object Detection
   id: p3
-  img_src: 
+  img_src: /assets/img/object-classification.png
   description_less: Using CNN, OpenCV and SSD, with frozen interference graph as the pre-trained model to detect objects from an image or a video given as the input
   action_buttons: >
     <a href="https://github.com/suyog301103/Object-Detection" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
@@ -24,7 +24,7 @@
 
 - name: Willow Go
   id: p4
-  img_src: /assets/img/weatherpie-page.png
+  img_src: /assets/img/willow.jpg
   description_less: Open-source implementation of the Willow Protocol in Go, providing a robust peer-to-peer distributed data storage solution.
   action_buttons: >
     <a href="https://github.com/PES-Innovation-Lab/willow-go" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
