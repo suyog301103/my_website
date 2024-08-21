@@ -20,7 +20,7 @@
   description_less: Using CNN, OpenCV and SSD, with frozen interference graph as the pre-trained model to detect objects from an image or a video given as the input
   action_buttons: >
     <a href="https://github.com/suyog301103/Object-Detection" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-  tags: [python, machine learning, computer vision]
+  tags: [python, machine learning, computer vision, neural networks]
 
 - name: Willow Go
   id: p4
@@ -29,3 +29,19 @@
   action_buttons: >
     <a href="https://github.com/PES-Innovation-Lab/willow-go" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   tags: [go, peer-to-peer, distributed systems]
+
+- name: Churn Modelling
+  id: p5
+  img_src: /assets/img/Churn-Modelling.png
+  description_less: Used ANN to predict which customer would churn (leave) from a bank.
+  action_buttons: >
+    <a href="https://github.com/suyog301103/Churn-Modelling" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [python, machine learning, neural networks]
+
+- name: DNS Server Architecture
+  id: p6
+  img_src: /assets/img/DNS.jpeg
+  description_less: A simulation of the DNS Server Architecture using socket programming, both recursive and iterative. The system facilitates encrypted data transfer via SSL/DTLS and simulates a Windows CLI with 'dig' command functionality, incorporating delays and handling unregistered domain names seamlessly.
+  action_buttons: >
+    <a href="https://github.com/suparna-here-123/DNS_Server_Architecture" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [python, socket programming]
